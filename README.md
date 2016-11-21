@@ -1,6 +1,10 @@
 # Mobile on-board event recorder (MOVER) - Vechicle
 
-This is the repository for the Social Engineering Prevention Training Tool (SEPTT) Android app, developed as part of my 2016 Computer Science Honours project at the University of Cape Town. This app was developed as a cyber security educational tool. Social engineering is a growing problem as more people fall victim to social engineering attacks. This tool will assist people in identifying social engineering attacks and, in so doing, prevent people from falling victim to social engineering attacks. This tool aims to make people more aware of social engineering and more alert to detect social engineering attacks in their everyday lives.
+MOVER is an in-vehicle accident detection Android application. developed as part of a 2016 Computer Science Honours project at the University of Cape Town.
+
+Group Members: [Luke Bell](lukebell.co.za), [Gavin Weiner](https://github.com/DivisionMax) & [William Lumala](https://www.linkedin.com/in/william-lumala-b498616b)
+
+Project Supervisors: [Francois Mouton](http://www.social-engineer.co.za/page_about.php)  & [Tommie Meyer](http://cs.uct.ac.za/~tmeyer/)
 
 **Minimum Android version required:** API 11
 
@@ -14,7 +18,7 @@ This is the repository for the Social Engineering Prevention Training Tool (SEPT
 
 **Build Instructions:**
 
-* Using Android Studio:*
+* Using Android Studio:
 	
 	1. Open Android Studio
 
@@ -23,7 +27,7 @@ This is the repository for the Social Engineering Prevention Training Tool (SEPT
 	3. From menu click Build > Build APK
 	
 
-* Using Command Line or Terminal:*
+* Using Command Line or Terminal:
 
 	1. Navigate to project root folder in console
 
