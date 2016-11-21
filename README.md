@@ -14,6 +14,17 @@ This is the repository for the Social Engineering Prevention Training Tool (SEPT
 
 **Build Instructions:**
 
-*1. Using Android Studio:*
+* Using Android Studio:*
+	
+	1. Open Android Studio
 
-*1. Using Command Line or Terminal:*
+	2. From menu click File > Open and navigate to project folder
+
+	3. From menu click Build > Build APK
+	
+
+* Using Command Line or Terminal:*
+
+	1. Navigate to project root folder in console
+
+	2. run "gradlew assembleDebug" in console
